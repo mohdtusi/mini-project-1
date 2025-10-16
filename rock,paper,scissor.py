@@ -44,9 +44,3 @@ else:
         print("You lose")
     else:
         print("Something went wrong")
-git init
-git add .
-git commit -m "mini-project-1" 
-git branch -M main
-git remote add origin https://github.com/<mohdtusi>/MiniProject1.git 
-git push -u origin main
